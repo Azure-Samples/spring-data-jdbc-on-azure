@@ -1,3 +1,13 @@
+---
+page_type: sample
+languages:
+- java
+products:
+- azure
+description: "This sample shows how to use Spring JDBC module with different Azure Database services."
+urlFragment: spring-data-jdbc-on-azure
+---
+
 # Spring Data JDBC on Azure
 
 This sample shows how to use Spring JDBC module with different Azure Database services.
